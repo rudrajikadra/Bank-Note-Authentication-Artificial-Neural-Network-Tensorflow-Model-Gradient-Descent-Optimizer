@@ -4,6 +4,7 @@ An Artificial Neural Network Model using Tensorflow and Gradient Descent Optimiz
 
 ### Data Set Information:
 https://archive.ics.uci.edu/ml/datasets/banknote+authentication
+
 Data were extracted from images that were taken from genuine and forged banknote-like specimens. For digitization, an industrial camera usually used for print inspection was used. The final images have 400x 400 pixels. Due to the object lens and distance to the investigated object gray-scale pictures with a resolution of about 660 dpi were gained. Wavelet Transform tool were used to extract features from images.
 
 ### Attribute Information:
