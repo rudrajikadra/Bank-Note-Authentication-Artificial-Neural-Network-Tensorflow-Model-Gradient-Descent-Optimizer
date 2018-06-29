@@ -18,3 +18,7 @@ Using Tensorflow created a deep neural network or artificial neural network for 
 I have created a multilayer perceptron with 4 hidden layer and 10 neurons each layer that uses gradient descent optimizer to minimize the cost with 200 epochs.
 
 The output or the accuracy is as given below.
+
+![screen shot 2018-06-29 at 9 47 38 pm](https://user-images.githubusercontent.com/15246084/42104095-fd2d9bc2-7be8-11e8-8954-7349982a967c.png)
+
+![screen shot 2018-06-29 at 9 47 53 pm](https://user-images.githubusercontent.com/15246084/42104097-fd734ba4-7be8-11e8-9ec4-27d100914f3d.png)
